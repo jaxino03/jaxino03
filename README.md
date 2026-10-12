@@ -1,4 +1,4 @@
-# 👋 Hi, I'm jaxino03
+# 👋 Hi, I'm jaxino
 
 **Fullstack Developer** — building web apps from database to UI.
 
